@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Eliza Bot - AI Chatbot", "Eliza Bot - AI Chatbot.pyproj", "{1913E4EE-286F-4550-9234-4DEA25883F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1913E4EE-286F-4550-9234-4DEA25883F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1913E4EE-286F-4550-9234-4DEA25883F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FC1353-2436-4A9B-A22F-C71A7EE9CF81}
+	EndGlobalSection
+EndGlobal
